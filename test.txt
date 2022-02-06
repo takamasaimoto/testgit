@@ -1,2 +1,3 @@
 Python
 勉強中追記
+・git status
